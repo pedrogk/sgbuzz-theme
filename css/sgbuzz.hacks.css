@@ -1,0 +1,18 @@
+@media all and (max-width: 800px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/var\/www\/sites\/buzz\/sites\/all\/themes\/sgbuzz\/sass\/sgbuzz\.hacks\.scss}line{font-family:\000033}}
+  #toolbar, #admin-menu {
+    display: none; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/var\/www\/sites\/buzz\/sites\/all\/themes\/sgbuzz\/sass\/sgbuzz\.hacks\.scss}line{font-family:\000038}}
+  html body.toolbar, html body.admin-menu {
+    padding-top: 0 !important;
+    margin-top: 0 !important; } }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/var\/www\/sites\/buzz\/sites\/all\/themes\/sgbuzz\/sass\/sgbuzz\.hacks\.scss}line{font-family:\0000315}}
+div.node-teaser {
+  width: 350px;
+  display: inline-block;
+  margin: 15px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/var\/www\/sites\/buzz\/sites\/all\/themes\/sgbuzz\/sass\/sgbuzz\.hacks\.scss}line{font-family:\0000321}}
+div.l-content {
+  vertical-align: top; }
