@@ -6,4 +6,4 @@ node_modules
 
 # Ignore the css folder since it is compiled from the scss files.
 css
-
+*.css

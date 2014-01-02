@@ -1,16 +1,13 @@
 <div<?php print $attributes; ?>>
-  <header class="l-header" role="banner">
-    <div class="l-branding">
-      <?php print render($page['branding']); ?>
-    </div>
+  <header class="l-header" role="navigation">
+    <?php print render($page['branding']); ?>
     <?php print render($page['navigation']); ?>
-    <?php print render($page['header']); ?>
+    <?php print render($page['user']); ?>
   </header>
 
   <div class="l-main">
     <div class="l-content" role="main">
       <?php print render($page['highlighted']); ?>
-      <?php print $breadcrumb; ?>
       <a id="main-content"></a>
       <?php print render($title_prefix); ?>
       <?php if ($title): ?>

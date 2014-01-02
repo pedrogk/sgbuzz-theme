@@ -5,8 +5,9 @@ template = simple2-layout
 
 ; Regions
 regions[branding]       = Branding
-regions[header]         = Header
 regions[navigation]     = Navigation bar
+regions[user]           = User bar
+regions[header]         = Header
 regions[highlighted]    = Highlighted
 regions[help]           = Help
 regions[content]        = Content
