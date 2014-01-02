@@ -85,55 +85,61 @@
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/pedro\/Projects\/themes\/sgbuzz\/sass\/layouts\/simple2\/simple2\.layout\.scss}line{font-family:\0000382}}
   .l-branding {
-    width: 36.70886%;
+    width: 17.72152%;
     float: left;
     margin-right: 1.26582%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/pedro\/Projects\/themes\/sgbuzz\/sass\/layouts\/simple2\/simple2\.layout\.scss}line{font-family:\0000385}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/pedro\/Projects\/themes\/sgbuzz\/sass\/layouts\/simple2\/simple2\.layout\.scss}line{font-family:\0000386}}
+  .l-region--navigation {
+    width: 30.37975%;
+    float: left;
+    margin-right: 1.26582%; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/pedro\/Projects\/themes\/sgbuzz\/sass\/layouts\/simple2\/simple2\.layout\.scss}line{font-family:\0000390}}
   .l-region--header {
-    width: 62.02532%;
+    width: 49.36709%;
     float: right;
     margin-right: 0; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/pedro\/Projects\/themes\/sgbuzz\/sass\/layouts\/simple2\/simple2\.layout\.scss}line{font-family:\0000390}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/pedro\/Projects\/themes\/sgbuzz\/sass\/layouts\/simple2\/simple2\.layout\.scss}line{font-family:\0000395}}
   .has-sidebar-first .l-content {
     width: 74.68354%;
     float: right;
     margin-right: 0; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/pedro\/Projects\/themes\/sgbuzz\/sass\/layouts\/simple2\/simple2\.layout\.scss}line{font-family:\0000393}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/pedro\/Projects\/themes\/sgbuzz\/sass\/layouts\/simple2\/simple2\.layout\.scss}line{font-family:\0000398}}
   .has-sidebar-first .l-region--sidebar-first {
     width: 24.05063%;
     float: left;
     margin-right: 1.26582%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/pedro\/Projects\/themes\/sgbuzz\/sass\/layouts\/simple2\/simple2\.layout\.scss}line{font-family:\0000398}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/pedro\/Projects\/themes\/sgbuzz\/sass\/layouts\/simple2\/simple2\.layout\.scss}line{font-family:\00003103}}
   .has-sidebar-second .l-content {
     width: 74.68354%;
     float: left;
     margin-right: 1.26582%; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/pedro\/Projects\/themes\/sgbuzz\/sass\/layouts\/simple2\/simple2\.layout\.scss}line{font-family:\00003101}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/pedro\/Projects\/themes\/sgbuzz\/sass\/layouts\/simple2\/simple2\.layout\.scss}line{font-family:\00003106}}
   .has-sidebar-second .l-region--sidebar-second {
     width: 24.05063%;
     float: right;
     margin-right: 0;
     clear: none; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/pedro\/Projects\/themes\/sgbuzz\/sass\/layouts\/simple2\/simple2\.layout\.scss}line{font-family:\00003108}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/pedro\/Projects\/themes\/sgbuzz\/sass\/layouts\/simple2\/simple2\.layout\.scss}line{font-family:\00003113}}
   .has-two-sidebars .l-content {
     width: 49.36709%;
     float: left;
     margin-right: 1.26582%;
     margin-left: 25.31646%; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/pedro\/Projects\/themes\/sgbuzz\/sass\/layouts\/simple2\/simple2\.layout\.scss}line{font-family:\00003113}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/pedro\/Projects\/themes\/sgbuzz\/sass\/layouts\/simple2\/simple2\.layout\.scss}line{font-family:\00003118}}
   .has-two-sidebars .l-region--sidebar-first,
   .has-two-sidebars .l-region--sidebar-second {
     width: 24.05063%;
     float: left;
     margin-right: 1.26582%; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/pedro\/Projects\/themes\/sgbuzz\/sass\/layouts\/simple2\/simple2\.layout\.scss}line{font-family:\00003116}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/pedro\/Projects\/themes\/sgbuzz\/sass\/layouts\/simple2\/simple2\.layout\.scss}line{font-family:\00003121}}
   .has-two-sidebars .l-region--sidebar-first {
     margin-left: -75.94937%; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/pedro\/Projects\/themes\/sgbuzz\/sass\/layouts\/simple2\/simple2\.layout\.scss}line{font-family:\00003119}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/pedro\/Projects\/themes\/sgbuzz\/sass\/layouts\/simple2\/simple2\.layout\.scss}line{font-family:\00003124}}
   .has-two-sidebars .l-region--sidebar-second {
     float: right;
     margin-right: 0;

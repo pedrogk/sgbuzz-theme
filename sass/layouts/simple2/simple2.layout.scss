@@ -52,9 +52,6 @@ $desk: 70em 16; // At 70em use 16 columns.
   .l-region--header{
     @include span-columns(8 omega, 12); // Span the last (omega) 8 columns of 12.
   }
-  .l-region--navigation {
-    clear: both;
-  }
 
   .has-sidebar-first,
   .has-sidebar-second,
