@@ -308,7 +308,3 @@ table {
   -moz-box-sizing: border-box;
   box-sizing: border-box;
   *behavior: url('../behaviors/box-sizing/boxsizing.php'); }
-
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/pedro\/Projects\/themes\/sgbuzz\/sass\/sgbuzz\.normalize\.scss}line{font-family:\0000310}}
-* {
-  vertical-align: top; }

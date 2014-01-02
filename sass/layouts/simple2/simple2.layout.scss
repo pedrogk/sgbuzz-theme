@@ -5,6 +5,7 @@
  * and building mobile first layouts.
  ******************************************************************************/
 @import "susy";
+@import "compass/css3/inline-block";
 
 // Susy Variables
 
@@ -49,7 +50,7 @@ $desk: 70em 16; // At 70em use 16 columns.
   .l-region--branding {
     @include span-columns(4, 12); // Span 4 out of 12 columns.
   }
-  .l-region--navigation{
+  .l-region--navigation {
     @include span-columns(8 omega, 12); // Span the last (omega) 8 columns of 12.
     vertical-align: bottom;
   }
@@ -79,14 +80,15 @@ $desk: 70em 16; // At 70em use 16 columns.
 
   .l-region--branding {
     @include span-columns(2, 16); // Span 6 out of 16 columns.
+    padding-top: 10px; 
   }
 
   .l-region--navigation {
-    @include span-columns(6, 16);
+    @include span-columns(8, 16);
   }
 
   .l-region--user{
-    @include span-columns(8 omega, 16); // Span the last (omega) 10 columns of 16.
+    @include span-columns(6 omega, 16); // Span the last (omega) 10 columns of 16.
   }
 
   .has-sidebar-first {

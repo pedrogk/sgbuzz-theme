@@ -11,8 +11,9 @@
 div.node-teaser {
   width: 350px;
   display: inline-block;
-  margin: 15px; }
+  margin: 15px;
+  vertical-align: top; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/pedro\/Projects\/themes\/sgbuzz\/sass\/sgbuzz\.hacks\.scss}line{font-family:\0000321}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/pedro\/Projects\/themes\/sgbuzz\/sass\/sgbuzz\.hacks\.scss}line{font-family:\0000322}}
 div.l-content {
   vertical-align: top; }
