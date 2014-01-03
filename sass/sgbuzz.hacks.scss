@@ -22,3 +22,13 @@ div.node-teaser {
 .inline-block {
   display: inline-block;
 }
+
+ul.block-list {
+  list-style-type: none;
+  padding: 0px;
+  margin: 0px;
+}
+
+ul.block-list li {
+  margin-bottom: 8px; 
+}
