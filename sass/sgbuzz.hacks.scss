@@ -21,14 +21,14 @@ div.node-teaser {
 
 .inline-block {
   display: inline-block;
-}
+} 
 
-ul.block-list {
+ul.block-list, div.block-list ul {
   list-style-type: none;
   padding: 0px;
   margin: 0px;
 }
 
-ul.block-list li {
+ul.block-list li, div.block-list ul li {
   margin-bottom: 8px; 
 }
