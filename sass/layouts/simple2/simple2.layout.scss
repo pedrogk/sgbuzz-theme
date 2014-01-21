@@ -52,7 +52,6 @@ $desk: 70em 16; // At 70em use 16 columns.
   }
   .l-region--navigation {
     @include span-columns(8 omega, 12); // Span the last (omega) 8 columns of 12.
-    vertical-align: bottom;
   }
 
   .has-sidebar-first,
@@ -80,7 +79,6 @@ $desk: 70em 16; // At 70em use 16 columns.
 
   .l-region--branding {
     @include span-columns(2, 16); // Span 6 out of 16 columns.
-    padding-top: 10px; 
   }
 
   .l-region--navigation {
@@ -93,33 +91,11 @@ $desk: 70em 16; // At 70em use 16 columns.
 
   .has-sidebar-first {
     .l-content {
-      @include span-columns(12, 16); // Span 12 columns of 16.
+      @include span-columns(11, 16); // Span 12 columns of 16.
     }
     .l-region--sidebar-first {
-      @include span-columns(4 omega, 16); // Span the last 4 out of 16 columns.
-    }
-  }
-  .has-sidebar-second {
-    .l-content {
-      @include span-columns(12, 16); // Span 12 out of 16 columns.
-    }
-    .l-region--sidebar-second {
-      @include span-columns(4 omega, 16); // Span the last (omega) 4 columns of 16.
-      clear: none;
+      @include span-columns(5 omega, 16); // Span the last 4 out of 16 columns.
     }
   }
 
-  .has-two-sidebars {
-    .l-content {
-      @include span-columns(8, 16); // Span 8 out of 16 columns.
-    }
-    .l-region--sidebar-first,
-    .l-region--sidebar-second {
-      @include span-columns(4, 16); // Span 4 out of 16 columns.
-    }
-    .l-region--sidebar-second {
-      @include omega; // This element spans the last (omega) column.
-      clear: none;
-    }
-  }
 }
