@@ -3,6 +3,7 @@
  */
 @import url(http://fonts.googleapis.com/css?family=Roboto+Condensed:300);
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:400,700,400italic);
+@import url(http://fonts.googleapis.com/css?family=Inconsolata);
 @include establish-baseline($base-font-size);
 
 /**
@@ -114,3 +115,11 @@ mark,
 
   @include border-radius(10px);
 }
+
+code {
+    font-family: Insonsolata, monospace, serif;
+    background-color: #e8e8e8;
+    color: #000000;
+    line-height: 100%;
+}
+
