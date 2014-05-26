@@ -12,7 +12,7 @@
   }
 }
 
-div.node-teaser {
+body.front div.node-teaser {
     width:350px;
     display: inline-block;
     margin:15px;
@@ -34,8 +34,36 @@ ul.block-list li, div.block-list ul li {
 }
 
 .addthis_toolbox {
-    padding-top: 80px;
     float: right;
     margin-right: 10px;
+}
+
+div.node--article--full {
+    .group-right {
+        padding-top: 80px;
+    }
+}
+
+div.add-to-cart { 
+    float: right;
+    margin-left: 10px;
+    clear: both;
+}
+
+.display-price {
+    clear: both;
+    padding-top: 4px;
+}
+
+.field--name-field-profile-first {
+    float: left;
+    margin-right: 0.3em;
+}
+
+.user-profile-category-expiring-roles {
+  user-profile-item__label {
+    float: left;
+    margin-right: 0.3em;
+  }
 }
 
